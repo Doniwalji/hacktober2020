@@ -42,8 +42,10 @@ void main(){
     }
     }
      
-    if(f==0)
+    if(f==0) 
+     {
     break;
+      }
     }
     for(int i=0;i<m;i++){
         turn_t[i]=wait[i]+burst[i];
