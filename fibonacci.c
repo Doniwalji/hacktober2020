@@ -29,6 +29,7 @@
  	scanf("%lld",&i);
  	pid=fork();
  	//t=getpid();
+        //t=getpid();
  	if (pid==0){
  		printf("Child process is calling Fibonacci\n");
  		childprocess(i);
