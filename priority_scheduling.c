@@ -39,6 +39,7 @@ void main(){
     //printf("%d",burst[2]);
     sort(burst,p,priority,n);
     //printf("%d",burst[2]);
+     // wait[0]=o;
     wait[0]=0;
     turn_t[0]=burst[0];
     for(i=1;i<n;i++){
