@@ -40,6 +40,7 @@ void main(){
     //     printf("%d",turn_t[i]);
     // }
     // printf("wait time is:%d",turn_t[2]);
+    // printf("Wait time is:%d",turn_t[2]);
     float avg_wt,avg_turn_t;
     int sum=0,sum1=0;
     for(i=0;i<n;i++){
